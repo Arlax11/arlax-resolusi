@@ -1,0 +1,6 @@
+RENCANA KONTEN BELAJAR ARLAX
+
+- Git / Github
+- React JS
+- Node JS
+- Tailwind CSS
