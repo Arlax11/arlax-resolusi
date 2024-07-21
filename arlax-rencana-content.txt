@@ -1,0 +1,8 @@
+RENCANA KONTEN BELAJAR ARLAX
+
+- Git / Github
+- React JS
+- Node JS
+- Tailwind CSS
+* Home page E-Commerce sederhana
+* Portofolio Website
