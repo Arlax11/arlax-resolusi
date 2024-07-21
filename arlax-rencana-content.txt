@@ -4,5 +4,6 @@ RENCANA KONTEN BELAJAR ARLAX
 - React JS
 - Node JS
 - Tailwind CSS
-* Home page E-Commerce sederhana
-* Portofolio Website
+  * Home page E-Commerce sederhana
+  * Portofolio Website
+- Database PostgreSQL  
