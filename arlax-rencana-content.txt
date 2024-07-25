@@ -2,6 +2,7 @@ RENCANA KONTEN BELAJAR ARLAX
 
 - Git / Github
 - React JS
+- Vue JS
 - JavaScript Async
 - Node JS
 - Tailwind CSS
