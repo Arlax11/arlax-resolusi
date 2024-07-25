@@ -1,7 +1,9 @@
 RENCANA KONTEN BELAJAR ARLAX
 
 - Git / Github
-- React JS
+- JavaScript Frameworks
+  ^ React 
+  ^ Angular 
 - Node JS
 - Tailwind CSS
   * Home page E-Commerce sederhana
