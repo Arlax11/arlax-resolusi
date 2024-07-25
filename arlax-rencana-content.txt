@@ -2,13 +2,8 @@ RENCANA KONTEN BELAJAR ARLAX
 
 - Git / Github
 - React JS
-- Vue JS
-- JavaScript Async
 - Node JS
 - Tailwind CSS
   * Home page E-Commerce sederhana
   * Portofolio Website
 - Database PostgreSQL  
-- PHP Frameworks 
-  ^ Laravel 
-  ^ Code Igniter
