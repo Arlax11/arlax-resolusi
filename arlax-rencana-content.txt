@@ -1,11 +1,11 @@
 RENCANA KONTEN BELAJAR ARLAX
 
 - Git / Github
-- JavaScript Frameworks
-  ^ React 
-  ^ Angular 
+- React JS
 - Node JS
 - Tailwind CSS
   * Home page E-Commerce sederhana
   * Portofolio Website
 - Database PostgreSQL  
+- TypeScript
+- Python
