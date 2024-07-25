@@ -7,3 +7,5 @@ RENCANA KONTEN BELAJAR ARLAX
   * Home page E-Commerce sederhana
   * Portofolio Website
 - Database PostgreSQL  
+- TypeScript
+- Python
