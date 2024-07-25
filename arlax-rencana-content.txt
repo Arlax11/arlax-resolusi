@@ -7,4 +7,4 @@ RENCANA KONTEN BELAJAR ARLAX
 - Tailwind CSS
   * Home page E-Commerce sederhana
 - Database PostgreSQL  
-- Database MongoDB
+
